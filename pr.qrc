@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>encrypt.jpg</file>
+    <file>close (1).png</file>
+    <file>cry3.jpg</file>
+    <file>cry1.jpg</file>
+    <file>cry1.jpg</file>
+    <file>cry.jpg</file>
+    <file>user.png</file>
+    <file>icon.png</file>
+  </qresource>
+</RCC>

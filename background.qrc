@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="img">
+    <file>encrypt.jpg</file>
+    <file>icon.png</file>
+    <file>user.png</file>
+    <file>cry3.jpg</file>
+    <file>cry1.jpg</file>
+    <file>cry.jpg</file>
+  </qresource>
+</RCC>

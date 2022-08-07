@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>houseY.png</file>
+    <file>register.png</file>
+    <file>enter.png</file>
+    <file>encrypt.jpg</file>
+    <file>close (1).png</file>
+    <file>minimize-sign.png</file>
+    <file>maximize.png</file>
+     <file>cry3.jpg</file>
+    <file>cry1.jpg</file>
+    <file>cry1.jpg</file>
+    <file>cry.jpg</file>
+    <file>user.png</file>
+    <file>icon.png</file>
+  </qresource>
+</RCC>
